@@ -12,7 +12,7 @@ function Aboutpage() {
                         <h3 className='aboutmetext'>About <span>Me</span></h3>
                         <p className='aboutdetails'>
                             I'm an explorer in this world who never settles for less. Extracting information and knowledge from everywhere I can get my hands on. Data is the new fuel and I'm using it efficiently to become better and better everyday. 
-If I talk about myself, I'm Roshmeet Charkaborty, also known as Coder Meet. By degree value I'm doing my Major in Computer Science and Applications, and by my interest and personal choice I'm exploring Data Science and DevOps for my future goals. 
+If I talk about myself, I'm Roshmeet Charkaborty. I'm doing my Major in Computer Science and Applications, and my interest and personal choice I'm exploring Data Science and DevOps for my future goals. 
 Quick Trivia - I love light mode and I don't like to stay at home, unless I have to.
                         </p>
                         <ul className='skilllist'>
@@ -28,7 +28,6 @@ Quick Trivia - I love light mode and I don't like to stay at home, unless I have
                                     <li>MySQL/SQLite3/PostgreSQL</li>
                                     <li>Docker/Kuberneties</li>
                                     <li>Linux and Distributions</li>
-                                    <li>Ui/Ux</li>
                                     <li>DevOps - Git</li>
                                 </Col>
                             </Row>
