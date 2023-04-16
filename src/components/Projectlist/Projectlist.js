@@ -31,7 +31,7 @@ function Projectlist() {
                 isBlog={false}
                 title="PassVault"
                 description="This is an anonymous and secured credentials vault and encryption system for privacy and easy feasibility of credentials all over the web and keeping it safe and sound without the worry of "
-                ghLink="https://olx-clone-rahul.netlify.app/"
+                ghLink=""
               />
             </Col>
 
@@ -41,7 +41,7 @@ function Projectlist() {
                 isBlog={false}
                 title="MedDetected"
                 description="This software detects the medicine and it's expiry date and converts the image texts and it's image processing analysis to speech and voice response is given as feedback. Especially useful for grandparents and blind persons."
-                ghLink="https://react-rahul-netflix-clone.netlify.app/"
+                ghLink=""
               />
             </Col>
 
@@ -51,7 +51,7 @@ function Projectlist() {
                 isBlog={false}
                 title="Anony's Journal"
                 description="The safe and secured journal for private journalling and note taking. Let keep your secrets, a secret. Like Anne Frank said people can judge you, but a paper can never judge and it's the best lisner"
-                ghLink="https://gridlinesbuilders.in/"
+                ghLink=""
               />
             </Col>
 
@@ -61,7 +61,7 @@ function Projectlist() {
                 isBlog={false}
                 title="I traced you"
                 description="get live location of all your device and never lose then. "
-                ghLink="https://rahulvijay81.github.io/Pizzastore-bootstrap/"
+                ghLink=""
               />
             </Col>
 
@@ -71,7 +71,7 @@ function Projectlist() {
                 isBlog={false}
                 title="Headstart DSA"
                 description="Want a job? Want to win Competetive Coding contests? Want to create applications? Want to make Website? Get hands on experience with Data Structures and algorithms."
-                ghLink="https://todolist-rahul81.netlify.app/"
+                ghLink="https://roshmeet.notion.site/Data-Structures-4ad422595f1e46afb9e56a0d36203859"
 
               />
             </Col>
