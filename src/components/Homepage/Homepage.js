@@ -24,15 +24,15 @@ function Home() {
             }}
               className='socailmediabtn'><AiFillGithub className='icon' /></button>
             <button onClick={() => {
-              window.open("https://www.linkedin.com/in/rahulvijay81/");
+              window.open("https://www.linkedin.com/in/roshmeet/");
             }}
               className='socailmediabtn'><FaLinkedinIn className='icon' /></button>
             <button onClick={() => {
-              window.open("https://twitter.com/rahulvijay8156");
+              window.open("https://twitter.com/RoshmeetChakra3");
             }}
               className='socailmediabtn'><AiOutlineTwitter className='icon' /></button>
             <button onClick={() => {
-              window.open("https://instagram.com/rahulvijay81");
+              window.open("https://www.instagram.com/_.roshmeet._/");
             }}
               className='socailmediabtn'><AiFillInstagram className='icon' /></button>
           </Col>
