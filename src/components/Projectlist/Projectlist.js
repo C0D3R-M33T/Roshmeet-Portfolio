@@ -20,8 +20,8 @@ function Projectlist() {
                 //imgPath={useradminpanel}
                 isBlog={false}
                 title="S.H.A.R.P"
-                description="User Admin Dashboard created with React js, Material UI, Nivo Charts, Formik, Yup, FullCalendar, and Data Grid to build this entire application. This application consists of Light and Dark Mode, four different Charts, three different Data Table Pages, FAQ Page, Form Page, and Calendar Integration."
-                ghLink="https://rahul-dashboard-pannel.netlify.app"
+                description="A simple helpful assistant for regular purpose, that can serve many handsfree operations without user action except voice commands that can control the entire system to provide seamless functionality."
+                ghLink="https://bit.ly/SharpHome"
               />
             </Col>
 
@@ -30,7 +30,7 @@ function Projectlist() {
                 //imgPath={olximage}
                 isBlog={false}
                 title="PassVault"
-                description="Olx-clone builds with react js. using firebase as a backend and deploying in firebase. Olx-Clone is a potential classified advertisement website that categorizes objects in a user-friendly manner & displays them as advertisements.. Classifieds can be posted that involve selling, and buying using React-router, context, react hooks."
+                description="This is an anonymous and secured credentials vault and encryption system for privacy and easy feasibility of credentials all over the web and keeping it safe and sound without the worry of "
                 ghLink="https://olx-clone-rahul.netlify.app/"
               />
             </Col>
@@ -40,7 +40,7 @@ function Projectlist() {
                 //imgPath={netfliximage}
                 isBlog={false}
                 title="MedDetected"
-                description="This project is a simplified front-end clone of Netflix. It was created with React js. It uses TMDB (The Movie Data Base ) API and uses the Axios tool. Users can click movie images with embedded YouTube trailers or related videos about the movie."
+                description="This software detects the medicine and it's expiry date and converts the image texts and it's image processing analysis to speech and voice response is given as feedback. Especially useful for grandparents and blind persons."
                 ghLink="https://react-rahul-netflix-clone.netlify.app/"
               />
             </Col>
@@ -50,7 +50,7 @@ function Projectlist() {
                 //imgPath={gridlinesbuilders}
                 isBlog={false}
                 title="Anony's Journal"
-                description="Grid line builders is a static webpage built with HTML, CSS, and JavaScript. Users can see images of their work and contact information that helps to connect the home builders through a webpage. webpage builds responsive to multiple sizes of devices."
+                description="The safe and secured journal for private journalling and note taking. Let keep your secrets, a secret. Like Anne Frank said people can judge you, but a paper can never judge and it's the best lisner"
                 ghLink="https://gridlinesbuilders.in/"
               />
             </Col>
@@ -60,7 +60,7 @@ function Projectlist() {
                 //imgPath={charlespizza}
                 isBlog={false}
                 title="I traced you"
-                description="Charlestown pizza is a static website completely build with bootstrap with fully responsive."
+                description="get live location of all your device and never lose then. "
                 ghLink="https://rahulvijay81.github.io/Pizzastore-bootstrap/"
               />
             </Col>
@@ -70,7 +70,7 @@ function Projectlist() {
                 //imgPath={todolist}
                 isBlog={false}
                 title="Headstart DSA"
-                description=" To-Do App that build will allow a user to add a task to a list of to-do items. Once the task is added, the user will be able to delete it as completed once it has done."
+                description="Want a job? Want to win Competetive Coding contests? Want to create applications? Want to make Website? Get hands on experience with Data Structures and algorithms."
                 ghLink="https://todolist-rahul81.netlify.app/"
 
               />
