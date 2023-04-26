@@ -19,6 +19,8 @@ function Home() {
             <h2 className='nametext'>I'm Roshmeet Chakraborty</h2>
             <span></span>
             <Text />
+            <p>I love Light Mode still I attract less bugs</p>
+            <span></span>
             <button onClick={() => {
               window.open("https://github.com/C0D3R-M33T");
             }}

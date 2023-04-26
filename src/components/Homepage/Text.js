@@ -8,8 +8,8 @@ function Text() {
       options={{
         strings: [
           "Manipal University Jaipur",
-          "Data Science and Analysis",
-          "DevOps Engineer",
+          "Majoring in Computer Science",
+          "DevOps and Management",
         ],
         autoStart: true,
         loop: true,
