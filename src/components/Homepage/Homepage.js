@@ -20,7 +20,7 @@ function Home() {
             <span></span>
             <Text />
             <strong>Quick Trivia : I love Light Mode</strong>
-            <span></span>
+            <br></br>
             <button onClick={() => {
               window.open("https://github.com/C0D3R-M33T");
             }}
