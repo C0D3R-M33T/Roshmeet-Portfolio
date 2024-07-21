@@ -184,7 +184,7 @@
   }
 }
 .Typewriter__wrapper {
-  font-size: 2.0em !important;
+  font-size: 1.5em !important;
   color: #191919 !important;
   font-weight: 600 !important;
   letter-spacing: 1px !important;
@@ -195,13 +195,13 @@
 }
 .headtext {
   padding-top: 120px;
-  font-size: 2.4em !important;
+  font-size: 2.0em !important;
   color: #191919 !important;
   font-weight: 600 !important;
   letter-spacing: 1px !important;
 }
 .nametext {
-  font-size: 2.0em !important;
+  font-size: 2.4em !important;
   color: #191919 !important;
   font-weight: 600 !important;
   letter-spacing: 1px !important;
@@ -210,7 +210,7 @@
   margin-top: 50px;
   max-width: 550px;
   height: 400px;
-  background-image: url(../Assets/Web-designer-1024x821.webp);
+  background-image: url(../Assets/Abstract.svg);
   background-size: cover;
   background-position: center;
 }
@@ -267,7 +267,7 @@
 
 .aboutpagebackground {
   width: 100%;
-  height: 100vh;
+  min-height: 100vh; /* Ensure the section is at least the height of the viewport */
   background-color: #4158d0;
   background-image: linear-gradient(
     43deg,
@@ -276,6 +276,8 @@
     #ffcc70 100%
   );
   padding-top: 110px;
+  display: flex; /* Optional: for centering content vertically */
+  flex-direction: column; /* Optional: for vertical layout */
 }
 .textbackground {
   width: 100%;
@@ -353,19 +355,10 @@
     #ffcc70 100%
   );
 }
-.project-section {
-  position: relative !important;
-  padding-top: 10px !important;
-}
-.project-card {
-  padding-top: 20px;
-  padding-bottom: 50px !important;
-  padding-left: 25px !important;
-  padding-right: 25px !important;
-  height: auto !important;
-}
-
 .project-card-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px,
     rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px !important;
   color: #191919 !important;
@@ -376,11 +369,25 @@
   height: 100% !important;
   border-radius: 15px;
 }
+
 .project-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;
   box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px,
     rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px !important;
+}
+
+.project-card {
+  padding-top: 20px;
+  padding-bottom: 50px !important;
+  padding-left: 25px !important;
+  padding-right: 25px !important;
+  height: auto !important;
+}
+
+.project-section {
+  position: relative !important;
+  padding-top: 10px !important;
 }
 
 .card-img-top {

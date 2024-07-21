@@ -11,24 +11,22 @@ function Aboutpage() {
                     <Col md={7} >
                         <h3 className='aboutmetext'>About <span>Me</span></h3>
                         <p className='aboutdetails'>
-                            I'm an explorer in this world who never settles for less. Extracting information and knowledge from everywhere I can get my hands on. Data is the new fuel and I'm using it efficiently to become better and better everyday. 
-If I talk about myself, I'm Roshmeet Charkaborty. I'm doing my Major in Computer Science and Applications, and my interest and personal choice I'm exploring Data Science and DevOps for my future goals. 
-Quick Trivia - I love light mode and I don't like to stay at home, unless I have to.
+                        I am a dedicated professional with a strong background in product design and development. My expertise includes crafting impactful UI/UX solutions and developing comprehensive design systems. I’ve managed complex projects, from branding and user experience enhancements to server and database management. I’m passionate about bridging the gap between user needs and technology, consistently seeking innovative solutions to drive results. Outside of work, I enjoy exploring new technologies and engaging in creative projects, always striving to enhance user experiences and make a meaningful impact.
                         </p>
                         <ul className='skilllist'>
                             <Row>
                                 <h3>Skills</h3>
                                 <Col md={7}>
-                                    <li>HTML5/CSS3</li>
-                                    <li>JavaScript</li>
-                                    <li>Python</li>
-                                    <li>C/C++ </li>
+                                    <li>Bootstrap | Tailwind</li>
+                                    <li>JavaScript | TypeScript</li>
+                                    <li>Python | C</li>
+                                    <li>SQL | SQLite3 | MongoDB</li>
                                 </Col>
                                 <Col md={5}>
-                                    <li>MySQL/SQLite3/PostgreSQL</li>
-                                    <li>Docker/Kuberneties</li>
-                                    <li>Linux and Distributions</li>
-                                    <li>DevOps - Git</li>
+                                    <li>Figma | LOOM | Illustrator</li>
+                                    <li>Docker | Kuberneties</li>
+                                    <li>Jira - Agile/Scrum</li>
+                                    <li>QGIS | ArcGIS | Seaborn</li>
                                 </Col>
                             </Row>
                         </ul>

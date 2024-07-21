@@ -19,7 +19,7 @@ function Home() {
             <h2 className='nametext'>I'm Roshmeet Chakraborty</h2>
             <span></span>
             <Text />
-            <strong>Quick Trivia : I love Light Mode</strong>
+            <strong>Building ArkTech || Ex intern @DRDO @Notion @ IBM @RedHat || Satellite Imagery Sensing || UX Interaction Designer || Product Designer</strong>
             <br></br>
             <button onClick={() => {
               window.open("https://github.com/C0D3R-M33T");

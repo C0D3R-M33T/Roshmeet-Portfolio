@@ -7,13 +7,16 @@ function Text() {
     <Typewriter
       options={{
         strings: [
+          "Co-Founder ArkTech Organisation.",
+          "Majoring Computer Science",
           "Manipal University Jaipur",
-          "Majoring in Computer Science",
-          "DevOps and Management",
+          "Eat Sleep Design Repeat",
+          "Building Community for Elite People",
+          "Majoring Computer Science",
         ],
         autoStart: true,
         loop: true,
-        deleteSpeed: 50,
+        deleteSpeed: 20,
       }}
     />
   )
