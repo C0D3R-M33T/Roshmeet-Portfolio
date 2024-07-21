@@ -327,7 +327,7 @@
 .webimage {
   max-width: 500px;
   height: 350px;
-  background-image: url(../Assets/web-removebg-preview.png);
+  background-image: url(../Assets/aboutsvg.svg);
   background-size: cover;
   background-position: center;
 }
