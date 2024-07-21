@@ -5,7 +5,7 @@ import Text from '../Homepage/Text'
 import {
   AiFillGithub,
   AiOutlineTwitter,
-  AiFillInstagram,
+  //AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -33,10 +33,7 @@ function Home() {
               window.open("https://twitter.com/RoshmeetChakra3");
             }}
               className='socailmediabtn'><AiOutlineTwitter className='icon' /></button>
-            <button onClick={() => {
-              window.open("https://www.instagram.com/_.roshmeet._/");
-            }}
-              className='socailmediabtn'><AiFillInstagram className='icon' /></button>
+           
           </Col>
 
           <Col md={5}>
